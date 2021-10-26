@@ -1,0 +1,7 @@
+{
+  "label.boilerplate": "Iniciando o Boilerplate",
+  "networkStatus.subtitle": "Por favor, verifique sua conexão.",
+  "networkStatus.title": "Sem conexão de internet.",
+  "message.connectionServerLost": "A conexão com o servidor falhou. Tentando reconectar...",
+  "message.reconnectedServer": "Reconectado."
+}
